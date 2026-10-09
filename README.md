@@ -15,15 +15,15 @@ I'm a Full-Stack Developer passionate about building practical applications, cre
 
 ## 🛠️ Technical Skills
 
-**Programming:** Python, PHP, JavaScript
+**💻 Programming Languages** Python, PHP, JavaScript
 
-**Frontend:** HTML, CSS, JavaScript, Bootstrap
+**🎨 Frontend Development:** HTML, CSS, JavaScript, Bootstrap
 
-**Backend:** Laravel, REST APIs
+**⚙️ Backend Development:** Laravel, REST APIs
 
-**Database:** MySQL, PostgreSQL
+**🗄️ Database:** MySQL, PostgreSQL
 
-**Tools:** Git, GitHub, VS Code
+**🔧 Tools:** Git, GitHub, VS Code
 
 *Keep only the technologies you have actually used and can discuss in an interview.*
 
