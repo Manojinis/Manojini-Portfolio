@@ -152,7 +152,7 @@ export const EXPERIENCES: ExperienceItem[] = [
     role: "Software Developer & Project Team Lead",
     company: "Edmond Remedies Private Limited (Doctor Healix)",
     location: "Chettikulam, Tamil Nadu",
-    period: "Jan 2026 – Present",
+    period: "Oct 2025 – Oct 2026",
     isCurrent: true,
     type: "Full-Time",
     highlights: [
