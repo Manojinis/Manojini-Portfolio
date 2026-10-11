@@ -55,7 +55,7 @@ export const PERSONAL_INFO = {
   location: "Kanniyakumari, Tamil Nadu, India",
   email: "manojini108@gmail.com",
   phone: "+91-9790213257",
-  linkedin: "https://www.linkedin.com/in/mano-jini-9147382b3",
+  linkedin: "https://www.linkedin.com/in/manojini-s-9147382b3",
   github: "https://github.com/Manojinis",
   resumePath: "/Manojini_S_Resume.pdf",
   resumeFilename: "Manojini_S_Resume.pdf",

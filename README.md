@@ -70,7 +70,7 @@ A pharmacy management and point-of-sale application.
 
 📧 Email: [manojini108@gmail.com](mailto:manojini108@gmail.com)
 
-💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/mano-jini-9147382b3/)
+💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/manojini-s-9147382b3/)
 
 🐙 GitHub: [Explore my repositories](https://github.com/Manojinis)
 
